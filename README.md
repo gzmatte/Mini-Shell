@@ -1,6 +1,6 @@
 ## That's it, installs Open-Shell with a minimal-ui experience.
 
-Focused in Performance, not UI quality.
+Focused in Performance, not quality.
 
 ### ★ [**DOWNLOAD**](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
 
