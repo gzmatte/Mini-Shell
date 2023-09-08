@@ -1,5 +1,5 @@
 # Minimal-Shell
-That's it, installs OpenShell with a minimal-ui and performance tweaks.
+That's it, installs OpenShell with a minimal-ui experience and extra performance tweaks.
 
 ★ [**DOWNLOAD**](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
 
