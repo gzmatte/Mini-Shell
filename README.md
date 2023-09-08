@@ -1,4 +1,4 @@
-### That's it, installs OpenShell with a minimal-ui experience.
+## That's it, installs OpenShell with a minimal-ui experience.
 
 Focused in Performance, not UI quality.
 
