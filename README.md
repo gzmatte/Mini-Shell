@@ -1,6 +1,6 @@
-## That's it, installs Open-Shell with a sexy minimal-ui.
+### That's it, installs Open-Shell with a sexy minimal-ui
 
-Focused in Performance.
+Performance focused.
 
 ### ★ [**DOWNLOAD**](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
 
