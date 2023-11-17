@@ -1,6 +1,8 @@
-## That's it, installs Open-Shell with a minimal-ui experience.
+## That's it, installs a Open-Shell with a sexy minimal-ui experience.
 
-Focused in Performance, not quality.
+Focused in Performance.
+
+> In the OpenShell Settings, u can add smoothing to the font if u want.
 
 ### ★ [**DOWNLOAD**](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
 
