@@ -1,4 +1,4 @@
-### That's it, installs Open-Shell with a sexy minimal-ui
+### Installs Open-Shell with a sexy minimal-ui
 
 Performance focused.
 
