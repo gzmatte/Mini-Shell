@@ -1,7 +1,8 @@
 ![MiniShell](https://github.com/gzmatte/Mini-Shell/assets/117684932/17952f9c-e25d-4e40-9c73-2fc602ca09ac)
 ----------
 **Installs Open-Shell with my f*cking sexy minimal UI.**
-*FOCUSED IN PERFORMANCE*
+
+> *FOCUSED IN PERFORMANCE*
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
 
