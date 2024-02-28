@@ -12,6 +12,6 @@
 
 **Search Box Version**
 
-[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell+Search.bat)
 
-![f](https://github.com/gzmatte/Mini-Shell/assets/117684932/6561f2bc-7463-42ea-9814-dbe209a1735c)
+![f](https://github.com/gzmatte/Mini-Shell/assets/117684932/54375648-7bc8-47d5-897b-c55fa6a768d5)
