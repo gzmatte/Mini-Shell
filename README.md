@@ -10,7 +10,7 @@
 
 ----
 
-**With Search Box.**
+**With Search Box included.**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell+Search.bat)
 
