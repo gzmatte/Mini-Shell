@@ -10,7 +10,7 @@
 
 ----
 
-**v2 / Search Box update.**
+**Search Box version.**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell-Search.bat)
 
