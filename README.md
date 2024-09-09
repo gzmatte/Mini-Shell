@@ -3,6 +3,7 @@
 **Installs Open-Shell with a sexy minimal UI, focused in performance.**
 
 > W11; Install Latest Open-Shell version after using this, that will fix openshell not opening. too lazy to update it
+
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Minimal-Shell/releases/download/1/Minimal-OpenShell.bat)
 
 ![Screenshot_13](https://github.com/gzmatte/Minimal-Shell/assets/117684932/287f8f95-cd99-4cea-8b46-25caaf070052)
